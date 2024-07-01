@@ -47,7 +47,6 @@ public class Main {
         System.out.println("frog "+frog);
         System.out.println();
 
-
         //task6
         var weightBoxer1 = 78.2;
         var weightBoxer2 = 82.7;
@@ -61,8 +60,6 @@ public class Main {
         System.out.println("Остаток от деления масс "+ weightBoxer2 % weightBoxer1);
         System.out.println();
 
-
-
         //task8
         //task8.1
         var totalHours = 640;
@@ -73,6 +70,5 @@ public class Main {
         var newWorkers = workers+94;
         var newHoursPerWorker = totalHours/newWorkers;
         System.out.println("Если в компании работает " +newWorkers+ " человек, то всего " +newHoursPerWorker+ " часов работы может быть поделено между сотрудниками");
-
     }
 }
